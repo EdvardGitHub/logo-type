@@ -1,0 +1,13 @@
+:root {
+  --accent-color: #ffc222;
+  --accent-font: 'PT Serif', serif;
+  --text-color: #5e5e5e;
+  --btn-text-color: #1b1b1b;
+  --font: 'Roboto', sans-serif;
+  --color: #fff;
+  --title-color: #212020;
+  --services-btn-text: #373636;
+  --form-border-color: #e6e6e6;
+  --form-label-text-color: #282828;
+  --card-social-accent-color: #f38181;
+}
